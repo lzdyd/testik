@@ -1,0 +1,1 @@
+animationIterationCount = 'infinite';
